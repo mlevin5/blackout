@@ -7,13 +7,17 @@ i created this because i was told by people involved in the movement that this w
 1. install python
 
 2. install instapy
+
 ```pip install instapy``` for python 2 or 
+
 ```pip3 install instapy``` for python 3
 
 3. clone the repo
 
 4. navigate to the repo folder in the command line, and run the script
+
 ```python quickstart.py``` for python 2 or 
+
 ```python3 quickstart.py``` for python 3
 
 # comment customization
