@@ -32,6 +32,6 @@ ideally, people wouldn't have to worry about installing the dependencies themsel
 
 also, right now the blackout images are being identified using a very rudimentary AI algorithm i trained using Clarifai, just because instapy already has easy integration with that third party tool. But, it doesn't work perfectly. I'd much rather not use AI at all, and just check that every pixel in the photo is black, or something more straightforward like that, but I haven't figured out how to integrate that with instapy.
 
-
+this readme could be a lot better too lol
 
 
