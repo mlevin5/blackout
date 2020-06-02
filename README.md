@@ -2,7 +2,7 @@ this script uses [instapy](https://github.com/timgrossmann/InstaPy) to automate 
 
 i created this because i was told by people involved in the movement that this would be a useful tool. 
 
-#how to use
+# how to use
 
 1. install python
 
@@ -13,11 +13,11 @@ i created this because i was told by people involved in the movement that this w
 
 4. navigate to the repo folder in the command line, and run the script with `python quickstart.py` or `python3 quickstart.py` for python3
 
-#comment customization
+# comment customization
 
 go into your local comments.txt file and edit the possible comments that can be made, if you want to change wording or whatever. just make sure there's space between each comment so it is parsed correctly.
 
-#help
+# help
 
 if you want to add to this, please feel free to fork or make a pull request or whatever. 
 
